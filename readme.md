@@ -32,3 +32,5 @@ This tool incorporates [haveSxS](https://github.com/Gamers-Against-Weed/haveSxS)
 License
 -------
 The project is licensed under the terms of the GNU General Public License v3.0
+
+Project originally made by https://github.com/Gamers-Against-Weed/
